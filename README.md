@@ -1,11 +1,10 @@
 # Taller de hoy
 
 1. Crear archivo README.md
-2. MODIFICANDO OTRA LINEA JORGECC
+2. Agregar titulo 
 3. Agregar una lista ordenada
 4. Agregar una imagen
-5. Generar cambios cada alumno en su rama
-*  Mi linea JORGE
+5. Generar cambios cada alumno en su ramas
 6. Hacer merge desde las 2 ramas a master
 
 
