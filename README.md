@@ -5,6 +5,7 @@
 3. Agregar una lista ordenada
 4. Agregar una imagen
 5. Generar cambios cada alumno en su rama
+*  Mi linea JORGE
 6. Hacer merge desde las 2 ramas a master
 
 
